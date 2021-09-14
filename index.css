@@ -1,0 +1,44 @@
+body {
+    background-image: url(back.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+nav {
+    font-family: 'Pattaya', sans-serif;
+    font-size: 1.7em;
+    color:beige;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+#silo {
+    margin-left: 0em;
+    margin-right: 12em;
+}
+
+img {
+    display: inline-block;
+    width: 5em;
+    border-radius: 5em;
+    vertical-align: top;
+}
+
+.n-bar {
+    display: inline-block;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.three-rows {
+    background-color: blue;
+}
+
+#about-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: blanchedalmond;
+}
+
